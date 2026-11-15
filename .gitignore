@@ -1,0 +1,5 @@
+input_gambar/
+hasil_gabungan/
+__pycache__/
+*.pyc
+.vscode/
